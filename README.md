@@ -1,0 +1,1 @@
+# Registering-new-host-on-Katello
